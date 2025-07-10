@@ -2,7 +2,7 @@
 
 A fun and functional offline web app that calculates your typing speed in **Words Per Minute (WPM)** based on how fast you type a random sentence.
 
-![Typing Speed Preview](typing-preview.png)
+![Typing Speed Preview](typing-speed-test.png)
 
 ---
 
